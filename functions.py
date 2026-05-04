@@ -1,8 +1,8 @@
-# print("WELCOME TO VEHICLE MUSIC SYSTEM")
-# name=input("enter user name :")
-# print(f"WELCOME TO VEHICLE MUSIC SYSTEM {name}!")
-# vehicle_model=input("enter vehicle model: ")
-# print(type(vehicle_model))
+print("WELCOME TO VEHICLE MUSIC SYSTEM")
+name=input("enter user name :")
+print(f"WELCOME TO VEHICLE MUSIC SYSTEM {name}!")
+vehicle_model=input("enter vehicle model: ")
+print(type(vehicle_model))
 flag= True
 songs=[]
 def songs_list():
